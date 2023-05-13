@@ -1,0 +1,81 @@
+body {
+    background: linear-gradient(90deg, rgba(34,193,195,1) 0%, rgba(251,45,253,1) 100%);
+}
+
+h1 {
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+.movimientos {
+    text-align: center;
+    padding: 30px;
+}
+
+.saldotext {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+#title {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+#consultar-saldo {
+    display: none;
+}
+
+.montotext {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding-top: 80px;
+}
+
+#mas-monto {
+    background: #fff;
+    text-align: center;
+    padding: 10px 25px;
+    box-shadow: 0 5px 10px rgba(71,3,6,0.7);
+}
+
+#depositar-monto {
+    text-align: center;
+    display: none;
+}
+
+#btn-depositar {
+    margin-top: 30px;
+}
+
+#menos-monto {
+    background: #fff;
+    text-align: center;
+    padding: 10px 25px;
+    box-shadow: 0 5px 10px rgba(71,3,6,0.7);
+}
+
+#retirar-monto {
+    text-align: center;
+    display: none;
+}
+
+#btn-retirar {
+    margin-top: 30px;
+}
+
+.btn-cerrarsesion {
+    text-align: right;
+    margin: 20px;
+}
